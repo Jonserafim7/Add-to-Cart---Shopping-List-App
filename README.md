@@ -1,52 +1,21 @@
-# Add to Cart - Shopping List App
+# co097427c919a8af765b6a9ed
 
-## Project Overview
+Quick start:
 
-Add to Cart is a simple yet effective web-based shopping list application that allows users to add, display, and remove items from a list. This project demonstrates real-time data manipulation using Firebase and fundamental web development techniques with HTML, CSS, and JavaScript.
+```
+$ npm install
+$ npm start
+````
 
-## Features
+Head over to https://vitejs.dev/ to learn more about using vite
+## About Scrimba
 
-- **Add Items**: Users can input items they need to purchase into an input field and add them to the list.
-- **Dynamic List Update**: The list updates in real-time as items are added or removed.
-- **Remove Items**: Items can be removed from the list by clicking on them.
-- **Persistent Storage**: Uses Firebase to store the items persistently.
+At Scrimba our goal is to create the best possible coding school at the cost of a gym membership! 💜
+If we succeed with this, it will give anyone who wants to become a software developer a realistic shot at succeeding, regardless of where they live and the size of their wallets 🎉
+The Frontend Developer Career Path aims to teach you everything you need to become a Junior Developer, or you could take a deep-dive with one of our advanced courses 🚀
 
-## Technologies Used
+- [Our courses](https://scrimba.com/allcourses)
+- [The Frontend Career Path](https://scrimba.com/learn/frontend)
+- [Become a Scrimba Pro member](https://scrimba.com/pricing)
 
-- HTML
-- CSS
-- JavaScript
-- Firebase Database
-
-## Setup and Installation
-
-1. **Clone the repository:**
-
-   ```bash
-   git clone https://github.com/yourusername/add-to-cart.git
-   cd add-to-cart
-   
-## Firebase Configuration
-
-Replace the `databaseURL` in the JS file with your Firebase project URL and update Firebase project settings as per your configuration. Ensure you have the appropriate configurations set in your Firebase console to allow read/write operations.
-
-## Running the Application
-
-Open the `index.html` file in your web browser to see the app in action. Alternatively, you can visit the live demo hosted on Netlify to interact with the fully functional application.
-
-## Live Demo
-
-Check out the live demo of the application here: [Add to Cart - Netlify](https://add-to-cart.netlify.app/). This live demo provides you with a real-time experience of how the application operates.
-
-## Usage
-
-To add an item to the shopping list, type the item's name into the input field and click the "Adicionar" button. To remove an item, simply click on the item in the list. This will update the list and remove the item both from the display and the database.
-
-## Contributing
-
-Contributions are welcome! If you have suggestions or enhancements, please fork the repository and submit a pull request. Your contributions will help improve the functionality and usability of this application.
-
-## License
-
-This project is open source and available under the [MIT License](LICENSE). This license allows you to modify, distribute, and use the application for both private and commercial purposes.
-
+Happy Coding!
